@@ -4,7 +4,7 @@ A clean, elegant icon set built for modern interfaces — designed for clarity, 
 Created by [Guillaume Duhan](https://nuage.to) for the Nuage Cloud ecosystem.
 
 <p align="center">
-  <img src="https://repository-images.githubusercontent.com/1076897939/543e61ce-56c9-4d01-b940-3389f9ef9e9c" alt="Nuage Icons preview" width="800" />
+  <img src="https://repository-images.githubusercontent.com/1076897939/ca81339c-53d0-41f0-866a-7e05bf9810a5" alt="Nuage Icons preview" width="800" />
 </p>
 
 ---
